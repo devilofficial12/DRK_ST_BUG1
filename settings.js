@@ -8,7 +8,7 @@ global.ytname = "DRK_ST_Tech"
 global.socialm = "GitHub: DRK-S-TEN"
 global.location = "America, Haiti, Port-au-Prince"
 
-global.ownernumber = '84785153782'  //creator number
+global.ownernumber = '94785153782'  //creator number
 global.ownername = 'Mr Tizzy' //owner name
 global.botname = 'DRK_ST_BUG' //name of the bot
 
